@@ -21,7 +21,7 @@
 
 ### Na parte do backend foi muito interessante utilizar o Prisma, nunca tinha usado um ORM e achei uma ferramenta muito útil visto que banco de dados ainda é meu ponto fraco. Também foi legal utilizar o NodeMailer como ferramenta de envio de email, não conhecia essa em particular. Pra finalizar, foi interessante ver testes unitários com Jest, estou acostumado a fazer testes em C#, mas foi a primeira vez fazendo com javascript.
 
-# Intalação de dependencias
+# Instalação de dependencias
 
 ## Web
 
