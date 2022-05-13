@@ -42,6 +42,7 @@ $ npm install
 ```
 $ npm run dev
 ```
+# Imagens da aplicação
 
 <img src="/imagens/icon.png">
 <img src="/imagens/main.png">
